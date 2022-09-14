@@ -1,11 +1,10 @@
 body
 {
-background-image: url("fondo_morado.jpg");}
+background-image: url("imagenes/fondo_morado.jpg");}
 
 #principal
 {
     color: aliceblue;
     font-size: larger;
     padding: 20px;
-    background-color: ;
 }
