@@ -1,5 +1,11 @@
 body
 {
-    background-color: rgb(84, 49, 179);
-}
+background-image: url("fondo_morado.jpg");}
 
+#principal
+{
+    color: aliceblue;
+    font-size: larger;
+    padding: 20px;
+    background-color: ;
+}
