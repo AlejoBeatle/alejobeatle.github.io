@@ -3,9 +3,23 @@ body
 background-image: url("https://i.postimg.cc/hGLr6L4k/morado.jpg");
 }
 
-#principal
+h1
+{
+    text-align: center;
+}          
+
+#principal h2
+{
+    color: #aaf;
+    text-align: center;
+
+}
+
+#principal p
 {
     color: aliceblue;
-    font-size: larger;
+    background-color: rgba(241, 241, 241, 0.137);
+    font-size
     padding: 20px;
+    text-align: center;
 }
