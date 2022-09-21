@@ -26,14 +26,18 @@ h1
 #principal 
 {
     color: rgb(227, 231, 233);
-    background-color: rgba(241, 241, 241, 0.137);
-
     font-size: large;
     padding: 0,5cm;
     text-align: center;
     margin:10px;
 }
 
+#versoUno
+{
+    background-color: rgba(241, 241, 241, 0.137);
+    border-radius: 20px;
+    padding: 10px;
+}
 
 #imgUno
 {
