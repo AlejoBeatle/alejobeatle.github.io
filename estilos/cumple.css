@@ -15,11 +15,16 @@ h1
 
 }
 
-#principal p
+#principal 
 {
     color: aliceblue;
-    background-color: rgba(241, 241, 241, 0.137);
-    font-size
+    font-size: x-large;
     padding: 20px;
     text-align: center;
+}
+
+#principal p
+{
+    background-color: rgba(241, 241, 241, 0.137);
+
 }
