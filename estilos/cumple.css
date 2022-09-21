@@ -3,6 +3,14 @@ body
 background-image: url("https://i.postimg.cc/hGLr6L4k/morado.jpg");
 }
 
+#titulo
+{
+    background-color: rgba(241, 241, 241, 0.137);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
 h1
 {
     text-align: center;
@@ -10,21 +18,26 @@ h1
 
 #principal h2
 {
-    color: #aaf;
+    color: rgba(210, 245, 239, 0.521);
     text-align: center;
 
 }
 
 #principal 
 {
-    color: aliceblue;
-    font-size: x-large;
-    padding: 20px;
+    color: rgb(227, 231, 233);
+    font-size: large;
+    padding: 0,5cm;
     text-align: center;
+    margin:10px;
 }
 
-#principal p
+
+#imgUno
 {
     background-color: rgba(241, 241, 241, 0.137);
-
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+    border-radius: 20px;
 }
