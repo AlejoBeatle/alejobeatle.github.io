@@ -42,8 +42,28 @@ h1
 #imgUno
 {
     background-color: rgba(241, 241, 241, 0.137);
-    width: 10%;
-    height: 10%;
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+#imgDos
+{
+    background-color: rgba(241, 241, 241, 0.137);
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+#imgTres
+{
+    background-color: rgba(241, 241, 241, 0.137);
+    width: 30%;
+    height: 30%;
     padding: 10px;
     border-radius: 20px;
 }
