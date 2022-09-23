@@ -26,7 +26,7 @@ h1
 #principal 
 {
     color: rgb(227, 231, 233);
-    font-size: large;
+    font-size: x-large;
     padding: 0,5cm;
     text-align: center;
     margin:10px;
@@ -41,9 +41,9 @@ h1
 
 #imgUno
 {
-    background-color: rgba(241, 241, 241, 0.137);
-    width: 30%;
-    height: 30%;
+    background-color: rgba(170, 170, 255, 0.747);
+    width: 20%;
+    height:20%;
     padding: 10px;
     border-radius: 20px;
 }
@@ -51,9 +51,9 @@ h1
 
 #imgDos
 {
-    background-color: rgba(241, 241, 241, 0.137);
-    width: 30%;
-    height: 30%;
+    background-color: rgba(170, 170, 255, 0.747);
+    width: 20%;
+    height: 10%;
     padding: 10px;
     border-radius: 20px;
 }
@@ -61,9 +61,19 @@ h1
 
 #imgTres
 {
+    background-color: rgba(170, 170, 255, 0.747);
+    width: 20%;
+    height: 10%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+#imgCuatro
+{
     background-color: rgba(241, 241, 241, 0.137);
     width: 30%;
-    height: 30%;
+    height: 10%;
     padding: 10px;
     border-radius: 20px;
 }
